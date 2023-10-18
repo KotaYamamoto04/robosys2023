@@ -1,2 +1,2 @@
-# rovbosys2023
+# robosys2023
 ロボットシステム学
