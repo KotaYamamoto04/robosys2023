@@ -15,9 +15,9 @@
     - pip（Pythonのパッケージマネージャ）
 
 2. このリポジトリをクローンします：
-    
+    ```
     git clone git@github.com:KotaYamamoto04/robosys2023.git
-    
+    ```
 
 3. リポジトリのディレクトリに移動します：
     ```
@@ -26,12 +26,10 @@
 
 4. 必要なPythonパッケージをインストールします：
     ```
-    sudo apt install -r requirements.txt
+    sudo  install plus
     ```
 
 これで、プログラムのインストールが完了しました！
-
-
 
 ## 使い方
 このスクリプトはコマンドラインから実行できます。以下にその使用例を示します：
