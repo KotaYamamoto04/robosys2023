@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 #SPDX-FileCopyrightText: 2023 Kota Yamamoto s22c1133uz@s.chibakoudai.jp
+#SPDX-License-Identifier: GPL-3.0
 
 import sys
 
@@ -10,5 +11,4 @@ for line in sys.stdin:
     except:
         ans += float(line)
 
-print(ans)
-
+print (ans)
