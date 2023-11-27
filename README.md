@@ -1,4 +1,6 @@
 # plusコマンド
+このPythonスクリプトは、標準入力から行を読み込み、それらを整数または浮動小数点数として解釈し、それらの合計を計算します。
+
 [![test](https://github.com/KotaYamamoto04/robosys2023/actions/workflows/test.yml/badge.svg)](https://github.com/KotaYamamoto04/robosys2023/actions/workflows/test.yml)
 標準入力から読み込んだ数字を足す。
 
@@ -9,8 +11,15 @@
 インストールはこちら：(https://github.com/KotaYamamoto04/robosys2023.git）
 
 ## 使い方
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+このスクリプトはコマンドラインから実行できます。以下にその使用例を示します：
 
+echo -e "5\n10\n15" | ./plus
+このように実行すると、5 + 10 + 15より計算結果の30が出力されます。
+
+seq 5 | ./plus
+このように実行すると、1 + 2 + 3 + 4 + 5より計算結果の15が出力されます。
+
+※plusコマンドでは数字を入力してそれを足し合わせる機能はないため、
 
 ## 必要なソフトウェア
 * Python
@@ -20,7 +29,7 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 * Ubuntu
 
 ## テスト結果
-テスト結果はgithubのサイト上でで作成したリポジトリより確認可能
+上記のURLより確認可能
 
 ## 著作権・ライセンス
  * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
