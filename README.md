@@ -63,13 +63,9 @@ $ ./plus
 ## テスト結果
 plusコマンドの下に記載しているバッジより確認可能。"Passing"と表示されている場合、テストは成功している。
 
-## 作成者
-* 山元広太
-* 千葉工業大学未来ロボティクス学科2年
-
 ## 著作権・ライセンス
  * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
  * このパッケージのコードは，下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを，本人の許可を得て自身の著作としたものです．
-      * [ryuichiueda/my_slides robosys_2022/lesson5.md](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
-      * [ryuichiueda/my_slides robosys_2022/lesson7.md](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
+      * [ryuichiueda/my_slides/robosys_2022/lesson5.md](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
+      * [ryuichiueda/my_slides/robosys_2022/lesson7.md](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
  * © 2023 Kota Yamamoto

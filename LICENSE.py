@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#SPDX-FileCopyrightText: 2023 Kota Yamamoto
+#SPDX-FileCopyrightText: 2023 KotaYamamoto04
 #SPDX-License-Identifier: BSD-3-Clause
 
 import sys
