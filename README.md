@@ -13,7 +13,7 @@
 
 2. 以下のリポジトリをクローンします：
     ```
-    $ git clone git@github.com:KotaYamamoto04/robosys2023.git
+    $ git clone https://github.com/KotaYamamoto04/robosys2023
     ```
 
 3. リポジトリのディレクトリに移動します：
@@ -23,7 +23,6 @@
 
 これでインストールは完了しました。
 エラーが出た場合は、スペルミスがないかを確認し、エラーの詳細を調べましょう。
-※ $は１つでいいので２つある場合は、１つ消しましょう。
 
 ## 使い方
 このスクリプトはコマンドラインから実行できます。以下にその使用例を示します
@@ -62,7 +61,7 @@ $ ./plus
 * Ubuntu 22.04.2 LTS
 
 ## テスト結果
-上記のURLより確認可能
+plusコマンドの下に記載しているバッジより確認可能。"Passing"と表示されている場合、テストは成功している。
 
 ## 作成者
 * 山元広太
@@ -74,4 +73,3 @@ $ ./plus
       * [ryuichiueda/my_slides robosys_2022/lesson5.md](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
       * [ryuichiueda/my_slides robosys_2022/lesson7.md](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
  * © 2023 Kota Yamamoto
-
